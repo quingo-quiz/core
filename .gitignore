@@ -1,0 +1,13 @@
+# Kubernetes секреты
+/k8s/secrets/
+*secret.yaml
+
+.env
+
+# Идея/VS Code
+.idea/
+.vscode/
+
+# Логи
+*.log
+logs/
